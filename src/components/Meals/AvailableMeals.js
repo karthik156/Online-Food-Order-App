@@ -34,7 +34,7 @@ const DUMMY_MEALS = [
         price: 320,
     },
     {
-        id: 'm5',
+        id: 'm6',
         name: 'Paneer Dosa',
         description: ' Paneer scrambled stuffed inside dosa,',
         price: 90,
