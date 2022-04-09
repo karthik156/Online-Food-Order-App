@@ -25,7 +25,7 @@ const DUMMY_MEALS = [
         id: 'm4',
         name: 'Chicken Tikka',
         description: 'Small pieces of Boneless Chicken',
-        price: 220,
+        price: 225,
     },
 
    
