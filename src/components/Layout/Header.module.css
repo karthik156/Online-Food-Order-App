@@ -25,3 +25,14 @@
     height: 120%;
     
   }
+
+  .h1{
+    font-family: 'Tahoma';
+    font-size: xx-large;
+    color: whitesmoke;
+  }
+
+  .h2{
+    font-family: 'Brush Script MT';
+    color: black;
+  }

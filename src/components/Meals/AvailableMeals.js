@@ -5,27 +5,40 @@ import classes from './AvailableMeals.module.css';
 const DUMMY_MEALS = [
     {
         id: 'm1',
-        name: 'Sushi',
-        description: 'Finest fish and veggies',
-        price: 22.99,
+        name: 'Chicken Chettinad',
+        description: 'Full of flavour and bold masalas, from the cuisine of chettinad ',
+        price: 250,
     },
     {
         id: 'm2',
-        name: 'Schnitzel',
-        description: 'A german specialty!',
-        price: 16.49,
+        name: 'Aloo Gobi',
+        description: 'Potatoes, Cauliflower',
+        price: 150,
     },
     {
         id: 'm3',
-        name: 'Barbecue Burger',
-        description: 'American, raw, meaty',
-        price: 12.99,
+        name: 'Fish Curry',
+        description: 'Semi Stewed Kerala-Style Curry',
+        price: 230,
     },
     {
         id: 'm4',
-        name: 'Green Bowl',
-        description: 'Healthy...and green...',
-        price: 18.99,
+        name: 'Chicken Tikka',
+        description: 'Small pieces of Boneless Chicken',
+        price: 220,
+    },
+
+    {
+        id: 'm5',
+        name: 'Mutton Biriyani',
+        description: 'Mutton cooked with flavorful rice, herbs, and spices',
+        price: 320,
+    },
+    {
+        id: 'm5',
+        name: 'Paneer Dosa',
+        description: ' Paneer scrambled stuffed inside dosa,',
+        price: 90,
     },
 ];
 
