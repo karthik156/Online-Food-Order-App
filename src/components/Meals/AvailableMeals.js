@@ -27,6 +27,20 @@ const DUMMY_MEALS = [
         description: 'Small pieces of Boneless Chicken',
         price: 225,
     },
+    {
+        id: 'm5',
+        name: 'Mutton Biriyani',
+        description: 'Mutton cooked with flavorful rice, herbs, and spices',
+        price: 320,
+    },
+    {
+        id: 'm5',
+        name: 'Paneer Dosa',
+        description: ' Paneer scrambled stuffed inside dosa,',
+        price: 90,
+    },
+
+
 
    
 ];
